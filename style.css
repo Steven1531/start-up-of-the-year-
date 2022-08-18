@@ -1,0 +1,52 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(https://media.istockphoto.com/photos/the-black-and-silver-are-light-gray-with-white-the-gradient-is-the-picture-id1332097112?b=1&k=20&m=1332097112&s=170667a&w=0&h=D_26WN2nM805ssHpKsrqFe9mE63_j2bNefybNF0wOLw=)no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h1 {
+  font-size: 3rem;
+  color: #e2dbdb;
+}
+
+hr {
+  margin: 20px auto;
+  color: #719db8;
+  border: 3px solid #719db8;
+  max-width: 65px;
+  opacity: 1;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-outline-primary {
+  color: #719db8;
+  border-color: #719db8;
+}
+
+
+.btn-outline-primary:hover,
+.btn-outline-primary:active {
+  border-color: #fff;
+  background-color: #719db8;
+  border-width: 1px;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
